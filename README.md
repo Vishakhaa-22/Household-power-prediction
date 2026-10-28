@@ -134,8 +134,8 @@ Python, pandas, NumPy, scikit-learn, Matplotlib, Streamlit, joblib
 | [Vishakha Nebhanani] | [240101005066] | [Main model train,setup repo,reviewing and final integration] |
 | [Heny Lathiya] | [ 240101005051] | [EDA and preprocessing ] |
 | [Krish Kotecha] | [ 240101005048] | [Data simulator ] |
-| [Darshan Mistry] | [2401010050 ] | [Apply Algorithm with hyperparameter] |
+| [Darshan Mistry] | [240101005056 ] | [Apply Algorithm with hyperparameter] |
 | [Sachit Mehta] | [240101005054] | [Comparsion Table and pie chart ] |
-| [Shreyansh Gajera] | [240101005028 ] | [README,report,demo,PPT ] |
+| [Shreyansh Gajera] | [240101005029 ] | [README,report,demo,PPT ] |
 
 Guide: [Rashmi Hirani]
