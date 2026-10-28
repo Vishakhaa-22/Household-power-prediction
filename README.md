@@ -115,9 +115,8 @@ The last cell regenerates everything in `models/` and `data/processed/`.
 - All three models predict the total power (kW) at once, side by side.
 - Compare model performance and see how each one behaves on real readings.
 
-Live demo: [add your Streamlit Cloud link here, if deployed]
-
----
+Live demo:[https://household-power-prediction-qxq8zcjpz9xjj7di4csbct.streamlit.app/)
+]
 
 ## Limitations
 
@@ -132,11 +131,11 @@ Python, pandas, NumPy, scikit-learn, Matplotlib, Streamlit, joblib
 ## Team
 
 | Name | Enrollment No. | Role |
-| [Vishakha Nebhanani] | [240101005066] | [ ] |
-| [Henny Lathiya] | [ 240101005051] | [ ] |
-| [Name 3] | [ ] | [ ] |
-| [Name 4] | [ ] | [ ] |
-| [Name 5] | [ ] | [ ] |
-| [Name 6] | [ ] | [ ] |
+| [Vishakha Nebhanani] | [240101005066] | [Main model train,setup repo,reviewing and final integration] |
+| [Heny Lathiya] | [ 240101005051] | [EDA and preprocessing ] |
+| [Name 3] | [ 2401010050] | [Data simulator ] |
+| [Name 4] | [2401010050 ] | [Apply Algorithm with hyperparameter] |
+| [Name 5] | [2401010050 ] | [omparsion Table and pie chart ] |
+| [Name 6] | [2401010050 ] | [README,report,demo,PPT ] |
 
-Guide: [Rashmi h]
+Guide: [Rashmi Hirani]
